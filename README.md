@@ -6,7 +6,7 @@
 - Browse
     - Header
     - Main Movie
-        - Trailrer in Background
+        - Trailer in Background
         - Title and Description
     - Movie Suggestion
         - MovieLists * N
