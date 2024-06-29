@@ -1,6 +1,9 @@
 # Netflix GpT
 - Create React APP
 - Configured GPT into it
+- Header
+- Login Form
+- SignUp Form
 
 # Features
 - Browse
