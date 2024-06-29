@@ -1,21 +1,21 @@
-#Netflix GpT
--Create React APP
--Configured GPT into it
+# Netflix GpT
+- Create React APP
+- Configured GPT into it
 
-#Features
--Browse
+# Features
+- Browse
     - Header
     - Main Movie
         - Trailrer in Background
         - Title and Description
     - Movie Suggestion
-        -MovieLists * N
+        - MovieLists * N
     - Horizontal
 
--SignIn
+- SignIn
     - Sign IN Form
     - Redirect to Browse Page
--NetflixGPT
+- NetflixGPT
     - Search Bar
     - Movie Suggestions
 
