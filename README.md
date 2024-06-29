@@ -1,6 +1,6 @@
-#netflix GpT
-Create React APP
-Configured GPT into it
+#Netflix GpT
+-Create React APP
+-Configured GPT into it
 
 #Features
 -Browse
