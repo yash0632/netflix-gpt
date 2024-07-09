@@ -2,8 +2,11 @@
 - Create React APP
 - Configured GPT into it
 - Header
+- Routing of App
 - Login Form
 - SignUp Form
+- Form Validation
+- useRef Hook
 
 # Features
 - Browse
